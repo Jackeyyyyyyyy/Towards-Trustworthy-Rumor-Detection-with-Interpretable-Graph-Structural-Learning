@@ -19,7 +19,6 @@ We use Twitter15 and Twitter16 dataset for the experiment.
 To learn more about the dataset, please refer to [RvNN](https://github.com/majingCUHK/Rumor_RvNN) for more details.
 
 ## About
-If you have any question, please contact zhenyu dot h at outlook dot com 
 
 **If you find this code useful, please cite our paper.**
 
