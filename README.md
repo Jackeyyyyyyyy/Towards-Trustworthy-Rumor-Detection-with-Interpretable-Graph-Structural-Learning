@@ -10,6 +10,8 @@ pytorch_geometric 1.7.0
 
 ## Usage
 ```
+python ./Model/Process/getTwittergraph.py Twitter15 # Construct the graph for Twitter15
+python ./Model/Process/getTwittergraph.py Twitter16 # Construct the graph for Twitter16
 python ./Model/train.py Twitter15 100 # Run TrustRD for 100 iterations on Twitter15 dataset
 python ./Model/train.py Twitter16 100 # Run TrustRD for 100 iterations on Twitter16 dataset
 ```
